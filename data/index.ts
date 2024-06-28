@@ -89,11 +89,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/react.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    href: "https://ui.aiimg.com",
+    title: "TV Series Search Database",
+    des: "This project involves creating a TV series search database using the TVmaze API. The database will allow users to search for TV shows, retrieve detailed information about them",
+    img: "/tvseies.svg",
+    iconLists: ["/react.svg", "/tail.svg", ""],
+    href: "https://fantastizeey1.github.io/tvseries/",
   },
   {
     id: 4,
@@ -111,14 +111,14 @@ export const testimonials = [
       "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
     name: "Ayooluwatomiwa Ajiboye",
     title: " Cybersecurity Specialists.",
-    img: "/profile.svg",
+    img: "/tommy.jpg",
   },
   {
     quote:
-      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
-    name: "Ayooluwatomiwa Ajiboye",
-    title: " Cybersecurity Specialists.",
-    img: "/profile.svg",
+      "I had the pleasure of working with Ayoola Enitan and highly recommend him for his exceptional skills. His code is clean, well-structured, and easy to maintain, which made our collaboration seamless. Ayoola excels in optimizing web performance, ensuring that our site loads quickly and runs smoothly across all devices and browsers. His dedication and expertise significantly enhanced our project.",
+    name: "Shalom Mark",
+    title: "Product Designer",
+    img: "/shalom.jpg",
   },
   {
     quote:
