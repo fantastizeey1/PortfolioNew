@@ -108,66 +108,59 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
+    name: "Ayooluwatomiwa Ajiboye",
+    title: " Cybersecurity Specialists.",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
+    name: "Ayooluwatomiwa Ajiboye",
+    title: " Cybersecurity Specialists.",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
+    name: "Ayooluwatomiwa Ajiboye",
+    title: " Cybersecurity Specialists.",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
+    name: "Ayooluwatomiwa Ajiboye",
+    title: " Cybersecurity Specialists.",
+    img: "/profile.svg",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "Reactjs",
+    img: "/React.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "Nextjs",
+    img: "/next.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "Tailwind css",
+    img: "/tail.svg",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "JavaScript",
+    img: "/js.png",
   },
   {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "Typescript.",
+    img: "/ts.svg",
   },
 ];
 
@@ -179,23 +172,10 @@ export const workExperience = [
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
+
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
+    title: "Frontend Developer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
@@ -206,13 +186,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/fantastizeey1",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/x.svg",
+    link: "https://x.com/Fantastizeey",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/ayoolaenitan/",
   },
 ];
