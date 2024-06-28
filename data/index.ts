@@ -120,13 +120,20 @@ export const testimonials = [
     title: "Product Designer",
     img: "/shalom.jpg",
   },
+  {
+    quote:
+      "Prevail is very prompt with the delivery of his work. He has a keen eye and pays attention to details. He does a great work as an individual and also flourishes when paired up with people. Think diligence, think Prevail!",
+    name: "Diamante",
+    title: "UI Designer",
+    img: "/dia.jpg",
+  },
 ];
 
 export const companies = [
   {
     id: 1,
     name: "Reactjs",
-    img: "/React.svg",
+    img: "/react.svg",
   },
   {
     id: 2,
