@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "An avid developer who is passionate about technology.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -84,7 +84,7 @@ export const projects = [
     title: "Hilink Landing Page",
     des: "Embark on your next adventure with Hilink. Explore breathtaking hiking trails, connect with fellow hikers, and track your journey with ease. Your ultimate travel hike companion awaits!",
     img: "/travelapp.svg",
-    iconLists: ["/react.svg", "/tail.svg", "/js.png"],
+    iconLists: ["/react.svg", "/tail.svg", "/js.svg"],
     href: "https://travelapphome.netlify.app/",
   },
   {
@@ -92,7 +92,7 @@ export const projects = [
     title: "TV Series Search Database",
     des: "This project involves creating a TV series search database using the TVmaze API. The database will allow users to search for TV shows, retrieve detailed information about them",
     img: "/tvseies.svg",
-    iconLists: ["/react.svg", "/tail.svg", ""],
+    iconLists: ["/react.svg", "/tail.svg"],
     href: "https://fantastizeey1.github.io/tvseries/",
   },
   {
@@ -120,20 +120,6 @@ export const testimonials = [
     title: "Product Designer",
     img: "/shalom.jpg",
   },
-  {
-    quote:
-      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
-    name: "Ayooluwatomiwa Ajiboye",
-    title: " Cybersecurity Specialists.",
-    img: "/profile.svg",
-  },
-  {
-    quote:
-      "Working with Ayoola Enitan was a delightful experience. He was very professional, paid great attention to detail, was always on time, and was dedicated to delivering amazing results. Enitan's passion for every aspect of the process was remarkable. If you're looking to enhance your website and elevate your brand, he is the perfect collaborator.",
-    name: "Ayooluwatomiwa Ajiboye",
-    title: " Cybersecurity Specialists.",
-    img: "/profile.svg",
-  },
 ];
 
 export const companies = [
@@ -155,7 +141,7 @@ export const companies = [
   {
     id: 4,
     name: "JavaScript",
-    img: "/js.png",
+    img: "/js.svg",
   },
   {
     id: 5,
