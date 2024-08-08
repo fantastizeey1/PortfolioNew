@@ -73,11 +73,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "HooBank Landing Page",
-    des: "Discover seamless banking with HooBank. Enjoy secure transactions, personalized financial services, and easy account management—all designed to meet your unique needs.",
-    img: "/hobobank.svg",
-    iconLists: ["/react.svg", "/tail.svg", "/icons8-html.svg"],
-    href: "https://hobobank.netlify.app",
+    title: "Caremanage ",
+    des: "When you discover a problem and procuring a solution to the problem with technology thats the best feeling thats was the idea behind this wonderful patient scheduling app",
+    img: "/caremanage.png",
+    iconLists: ["/react.svg", "/tail.svg", "/next.svg"],
+    href: "https://https://hospicetest.vercel.app/",
   },
   {
     id: 2,
