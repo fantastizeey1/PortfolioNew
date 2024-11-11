@@ -89,11 +89,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "TV Series Search Database",
-    des: "This project involves creating a TV series search database using the TVmaze API. The database will allow users to search for TV shows, retrieve detailed information about them",
-    img: "/tvseies.svg",
-    iconLists: ["/react.svg", "/tail.svg"],
-    href: "https://fantastizeey1.github.io/tvseries/",
+    title: "The Pitch",
+    des: "This web application allows users to explore various startups, view detailed profiles, and connect with startup founders. Built using Next.js and Sanity.io, this app leverages Client-Side Rendering (CSR) techniques for a seamless user experience.",
+    img: "/pitch.png",
+    iconLists: ["/react.svg", "/tail.svg", "/next.svg", "/Sanity.svg"],
+    href: "https://the-pitch.vercel.app/",
   },
   {
     id: 4,
@@ -154,6 +154,11 @@ export const companies = [
     id: 5,
     name: "Typescript.",
     img: "/ts.svg",
+  },
+  {
+    id: 6,
+    name: "Sanity.",
+    img: "/sanity.svg",
   },
 ];
 
