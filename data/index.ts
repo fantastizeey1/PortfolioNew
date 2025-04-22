@@ -85,7 +85,7 @@ export const projects = [
     des: "PrepSmart - Your AI-Powered Interview Preparation Assistant Platform",
     img: "/prepsmart.svg",
     iconLists: ["/react.svg", "/tail.svg", "/js.svg", "/next.svg", "/ts.svg"],
-    href: "https://prepsmart.vercel.app/",
+    href: "https://prepsmartz.vercel.app/",
   },
   {
     id: 3,
