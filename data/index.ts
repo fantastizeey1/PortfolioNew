@@ -81,11 +81,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Zentry Page Clone",
-    des: "Experience the elegance of modern design with this Zentry website clone. Meticulously crafted to replicate the sleek aesthetics and seamless functionality of Zentry, this project showcases a polished user interface, responsive layouts, and interactive features. Dive into a showcase of web design excellence!",
-    img: "/aww.svg",
-    iconLists: ["/react.svg", "/tail.svg", "/js.svg"],
-    href: "https://aww-lime.vercel.app/",
+    title: "PrepSmart",
+    des: "PrepSmart - Your AI-Powered Interview Preparation Assistant Platform",
+    img: "/prepsmart.svg",
+    iconLists: ["/react.svg", "/tail.svg", "/js.svg", "/next.svg", "/ts.svg"],
+    href: "https://prepsmart.vercel.app/",
   },
   {
     id: 3,
