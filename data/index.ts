@@ -77,7 +77,7 @@ export const projects = [
     des: "When you discover a problem and procuring a solution to the problem with technology thats the best feeling thats was the idea behind this wonderful patient scheduling app",
     img: "/caremanage.svg",
     iconLists: ["/react.svg", "/tail.svg", "/next.svg"],
-    href: "https://https://hospicetest.vercel.app/",
+    href: "https://hospicetest.vercel.app/",
   },
   {
     id: 2,
